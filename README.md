@@ -4,8 +4,7 @@
 [![Live site](readme_images/guide-site.png)](https://mintmountainsclub.ch)
 
 ## Contact info
-- **Email:** dejanteofilovic2@gmail.com
-- **Discord:** [dejan_teofilovic](https://discord.gg/PztT2r5U)
+- **Email:** danielbergstom12@gmail.com
 
 
 ## Release date
